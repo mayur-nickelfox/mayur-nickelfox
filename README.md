@@ -1,6 +1,6 @@
-## Hello World, I'm [Aakash Sinha!]([https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/mayurbahuguna/)) 
+## Hello World, I'm [Mayur Bahuguna!]([[https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/mayurbahuguna/](https://www.linkedin.com/in/mayurbahuguna/))) 
 
-<a href="[https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/mayurbahuguna/)">
+<a href="[[https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/mayurbahuguna/](https://www.linkedin.com/in/mayurbahuguna/))">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="mailto:mayur@nickelfox.com">
