@@ -4,7 +4,7 @@
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="mailto:mayur@nickelfox.com">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+  <img align="left" width="26px" src="[https://cdn.simpleicons.org/gmail](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-microsoft-outlook-outlook-com-computer-icons-email-1154867%2F&psig=AOvVaw31roCvDp5Kkl0QlytE226v&ust=1715289567528000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCwlN79_oUDFQAAAAAdAAAAABAE)" />
 </a>
 
 <br />
